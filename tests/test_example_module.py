@@ -1,6 +1,6 @@
 import pytest
 
-from src.utils.utils import mask_emails
+from src.example_package.example_module import mask_emails
 
 
 @pytest.mark.parametrize("input_str, expected_output", [
