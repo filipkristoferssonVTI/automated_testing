@@ -14,4 +14,6 @@ A minimal template for automated testing in Python with [pytest](https://pytest.
 - The workflow runs on **Windows** by default.
 - To change OS, edit the `runs-on:` line in the workflow file.
 
+##
+
 [![Tests](https://github.com/filipkristoferssonVTI/automated_testing/actions/workflows/tests.yml/badge.svg)](https://github.com/filipkristoferssonVTI/automated_testing/actions/workflows/tests.yml)
