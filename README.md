@@ -1,4 +1,4 @@
-# Automated Testing - Template Repository for Automated Testing in Python
+# Template Repository for Automated Testing in Python
 
 A minimal template for automated testing in Python with [pytest](https://pytest.org) and GitHub Actions.
 
@@ -14,8 +14,4 @@ A minimal template for automated testing in Python with [pytest](https://pytest.
 - The workflow runs on **Windows** by default.
 - To change OS, edit the `runs-on:` line in the workflow file.
 
-## Local Testing
-
-```bash
-pip install -r requirements.txt
-pytest
+[![Tests](https://github.com/filipkristoferssonVTI/automated_testing/actions/workflows/tests.yml/badge.svg)](https://github.com/filipkristoferssonVTI/automated_testing/actions/workflows/tests.yml)
