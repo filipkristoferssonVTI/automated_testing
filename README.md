@@ -16,4 +16,4 @@ A minimal template for automated testing in Python with [pytest](https://pytest.
 
 ##
 
-[![Tests](../../actions/workflows/tests.yml/badge.svg)]
+![Tests](../../actions/workflows/tests.yml/badge.svg)
