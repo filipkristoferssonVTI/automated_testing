@@ -6,7 +6,7 @@ A minimal template for automated testing in Python with [pytest](https://pytest.
 
 1. **Copy this repo** (`Use this template` on GitHub).
 2. **Update `pyproject.toml`** with your project details.
-3. **Add your code and tests** to the project.
+3. **Modify the example code and tests** for your own needs.
 
 ## How it works
 
