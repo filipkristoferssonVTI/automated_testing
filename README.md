@@ -16,4 +16,4 @@ A minimal template for automated testing in Python with [pytest](https://pytest.
 
 ##
 
-[![Tests](https://github.com/filipkristoferssonVTI/automated_testing/actions/workflows/tests.yml/badge.svg)](https://github.com/filipkristoferssonVTI/automated_testing/actions/workflows/tests.yml)
+[![Tests](../../actions/workflows/tests.yml/badge.svg)]
