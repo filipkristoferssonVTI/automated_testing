@@ -9,7 +9,6 @@ description = ""
 authors = [{ name = "Filip Kristofersson", email = "filip.kristofersson@vti.se" }]
 # If your project has dependencies, list them here:
 dependencies = []
-requires-python = ">= 3.10"
 
 [project.optional-dependencies]
 test = [
