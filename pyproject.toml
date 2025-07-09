@@ -14,3 +14,13 @@ dependencies = []
 test = [
     "pytest"
 ]
+
+[tool.pytest.ini_options]
+addopts = "-v"
+# Register custom pytest markers here.
+# 'slow' is a custom marker (not built-in) for long-running tests.
+# Registering avoids warnings and lets you select/deselect these tests.
+# Usage: pytest -m slow  /  pytest -m "not slow"
+markers = [
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+]
